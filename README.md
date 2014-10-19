@@ -1,1 +1,4 @@
-readme
+# Minecraftメモ
+
+Minecraftを遊ぶためのメモです。
+

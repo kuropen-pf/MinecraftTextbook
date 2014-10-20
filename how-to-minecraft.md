@@ -92,7 +92,7 @@ Minecraft ForgeというMODがあるので使います。これは、他のMOD�
 * [Minecraft Forge Forums - Index](http://www.minecraftforge.net/forum/)
 * [MinecraftForge/MinecraftForge](https://github.com/MinecraftForge/MinecraftForge)
 
-###MODを開発する
+###MODを開発する(Minecraft Forgeを使用しない)
 
 
 ####環境を構築する
@@ -110,4 +110,9 @@ MinecraftでMODを開発するための日本語の情報源は以下を参照�
 * [Minecraft Code Pack](http://mcp.ocean-labs.de/)
 
 
+###MODを開発する(Minecraft Forgeを使用する)
+
+####環境を構築する
+
+####必要なもの
 

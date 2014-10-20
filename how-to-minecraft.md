@@ -25,11 +25,13 @@ Minecraftについては次の記事を見るとだいたいわかると思い�
 * [Minecraftの作者Notch、成功とマイクロソフトへの売却を語る。「金のためではなく正気を保つため」 - Engadget Japanese](http://japanese.engadget.com/2014/09/15/minecraft-notch/)
 
 
-###どんなことができるの
+###どんなことができるのですか
 ニュースサイトでよく目にするのは、「Minecraftで○○を作ってみた」系の記事です。
 
 * [『千と千尋の神隠し』を「Minecraft」で再現 « WIRED.jp](http://wired.jp/2014/01/17/minecraft-spirited-away/)
 * [『Minecraft』でデンマーク地理庁が国土を再現 ― 使用されたブロックは4兆個 | Game*Spark - 国内・海外ゲーム情報サイト](http://www.gamespark.jp/article/2014/04/25/48104.html)
+
+匠による劇的ビフォーアフターを楽しむのも醍醐味のひとつです。
 
 ###プレイ動画を見る
 世界中で人気のあるゲームなので、YouTubeで探せば沢山のプレイ動画がありますし、日本の動画コミュニティであるニコニコ動画にも当然、プレイ動画があります。
@@ -37,9 +39,15 @@ Minecraftについては次の記事を見るとだいたいわかると思い�
 * [minecraft - YouTube](https://www.youtube.com/results?search_query=minecraft)
 * [キーワードで動画検索 minecraft - ニコニコ動画:GINZA](http://www.nicovideo.jp/search/minecraft?sort=v&order=d)
 
+###遊ぶのに必要な環境は何ですか
+
+WindowsだけでなくMac OS Xにもインストールできるらしいです。Xbox 360版やiOS版もあるらしいです。
+
+低スペックなPCでも、色々と工夫をすると動くようです。
+
 ###インストールする
 
-購入してダウンロードします。日本語で遊べます。無料のデモ版もあります。WindowsだけでなくMac OS Xにもインストールできるらしいです。Xbox 360版もあるらしいです。
+購入してダウンロードします。日本語で遊べます。無料のデモ版もあります。
 
 ###実際に遊んでみる
 
@@ -74,14 +82,16 @@ Minecraftには何種類かのモードがあります。1人で遊ぶだけで�
 
 適用したいMinectaftのバージョンに対応したMODを用意する必要があります。例えば、バージョン1.7.10のMinecraftには、バージョン1.7.10に対応したMODしか使えません。これは、Minecraftの内部構造に合わせてMODを作る必要があるからです。
 
-どんなMODがあるかの例は以下を参照。
+どんなMODがあるかの例は以下を参照してください。
 
 * [Minecraft Japan Wiki - 新しい要素を追加するMOD](http://www26.atwiki.jp/minecraft/pages/935.html)
 
 ###MODをインストールする
 
+用意したMODをMinecraftにインストールします。
+
 ####Minecraftの機能だけでMODを使う
-MODの導入方法は以下を参照。
+MODの導入方法は以下を参照してください。
 
 * [Minecraft Japan Wiki - MOD](http://www26.atwiki.jp/minecraft/pages/940.html)
 
@@ -92,8 +102,7 @@ Minecraft ForgeというMODがあるので使います。これは、他のMOD�
 * [Minecraft Forge Forums - Index](http://www.minecraftforge.net/forum/)
 * [MinecraftForge/MinecraftForge](https://github.com/MinecraftForge/MinecraftForge)
 
-###MODを開発する(Minecraft Forgeを使用しない)
-
+###Minecraft Forgeを使用せずにMODを開発する
 
 ####環境を構築する
 
@@ -109,8 +118,9 @@ MinecraftでMODを開発するための日本語の情報源は以下を参照�
 * minecraft_server.jar
 * [Minecraft Code Pack](http://mcp.ocean-labs.de/)
 
+####手に入るもの
 
-###MODを開発する(Minecraft Forgeを使用する)
+###Minecraft Forgeを使用してMODを開発する
 
 ####環境を構築する
 
